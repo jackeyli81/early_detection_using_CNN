@@ -1,4 +1,4 @@
-# Hos6_ASD1
+# CNN based early detection tools
 one small project for image classification using tensorflow. pictures are from ASD children (but won't be shared)
 
 ## why do you share this code in github
