@@ -1,5 +1,5 @@
 # Hos6_ASD1
-one small project for image classification using tensorflow.
+one small project for image classification using tensorflow. pictures are from ASD children (but won't be shared)
 
 ## why do you share this code in github
 well, my disk crushed unfortunately a few weeks ago. this pushes me to store my toys on github. so welcome any doubts and questions! do not wait, just attack me if found silly codes! 
